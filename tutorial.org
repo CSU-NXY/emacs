@@ -1,6 +1,6 @@
 This is the default configuration for Emacs.
 
-* Section 1 [2018-03-18 ÷‹»’ 14:29]
+* Section 1 [2018-03-18 √ñ√ú√à√ï 14:29]
 ** Note
 the 'C' in 'C-x' means 'Control key'
 the 'M' in 'M-x' means 'Alt key'
@@ -28,7 +28,7 @@ my mind, I can enter 'C-g' to exit this command.
    3) kill buffer: C-x k
    4) find/open file: C-x C-f
 
-* Section 2 [2018-03-18 ÷‹»’ 14:55]
+* Section 2 [2018-03-18 √ñ√ú√à√ï 14:55]
 ** Step
 In this section, I will introduce how to add ELPA repository and install an Emacs theme.
 
@@ -44,7 +44,7 @@ In this section, I will introduce how to add ELPA repository and install an Emac
    5) 'M-x eval-buffer' to reload 'init.el' file
 
 Now, Emacs looks better. :P
-* Section 3 [2018-03-18 ÷‹»’ 15:49]
+* Section 3 [2018-03-18 √ñ√ú√à√ï 15:49]
 ** Step
 In this video, I'll introduce how to disable toolbar and menubar.
 
@@ -62,7 +62,7 @@ How to create another window?
 How to navigate to the begining of the current buffer? 'M-<'
 
 How to navigate to the end of the current buffer? 'M->'
-* Section 4 [2018-03-18 ÷‹»’ 16:01]
+* Section 4 [2018-03-18 √ñ√ú√à√ï 16:01]
 In this section, I'll introduce how to install some packages I love.
 
 1. use-package: install and manage other packages
@@ -72,3 +72,9 @@ In this section, I'll introduce how to install some packages I love.
 Now I will use magit to create a repository and make a commit. Great!
 
 using lispy, we can navigate in lisp code smoothly. :)
+* Section 5 [2018-03-18 Êó• 19:46]
+Today, I'll introduce how to set font in Emacs and use magit plugin.
+
+1. set font using 'default-frame-alist' variable
+2. using magit
+   1) add a remote repository for this repository
