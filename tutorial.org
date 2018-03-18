@@ -67,5 +67,8 @@ In this section, I'll introduce how to install some packages I love.
 
 1. use-package: install and manage other packages
 2. magit: use git in Emacs
+3. lispy: write lisp code
 
-Now I will use magit to create a repository and make a commit.
+Now I will use magit to create a repository and make a commit. Great!
+
+using lispy, we can navigate in lisp code smoothly. :)
