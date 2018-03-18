@@ -111,3 +111,14 @@ In this section, I'll introduce how to use magit in an organized way.
 13. make a new commit in new branch
 14. checkout to another branch
 15. merge sub branch to master branch
+* Section 7 [2018-03-18 日 22:53]
+Today, I'll introduce how to look up info file in Emacs.
+
+1. Read Emacs manual: 'C-h i m Emacs'
+2. Read Emacs Lisp Intro: 'C-h i m elisp'
+3. lookup a variable: 'C-h v'
+4. lookup a function: 'C-h f'
+
+Now, I'll show how to navigate in the info file.
+
+I'll try to show it slower.. :)
