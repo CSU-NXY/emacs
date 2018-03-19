@@ -139,3 +139,11 @@ Update packages.
 Install hydra package.
 
 Install ace-window package.
+* Section 10 [2018-03-19 一 20:09]
+In this section, I'll introduce how to install yasnippet.
+
+Let's use it to write C++ programs.
+
+Let's disable scrool bar. Now scroll bar on the right disappeared.
+
+Bye! See you next time. :-)
