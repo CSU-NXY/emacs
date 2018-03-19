@@ -122,3 +122,20 @@ Today, I'll introduce how to look up info file in Emacs.
 Now, I'll show how to navigate in the info file.
 
 I'll try to show it slower.. :)
+* Section 8 [2018-03-19 一 09:35]
+In this section, I'll introduce how to install and use swiper plugin.
+
+using swiper, ivy and counsel. We can use completion in mode line more
+easily.   :)
+
+How to make emacs transparent?
+* Section 9 [2018-03-19 一 12:03]
+I have installed compton and Emacs has transparency now!
+
+Let's change a light theme
+
+Update packages.
+
+Install hydra package.
+
+Install ace-window package.
