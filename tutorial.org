@@ -147,3 +147,16 @@ Let's use it to write C++ programs.
 Let's disable scrool bar. Now scroll bar on the right disappeared.
 
 Bye! See you next time. :-)
+* Section 11 [2018-03-19 一 20:43]
+Today, I'll introduce how to use abbrev.
+
+e.g. sig-> abel<abel-abel@gmx.com> 
+
+1. 'C-x a g'
+2. 'C-u _n_ C-x a g'
+3. 'M-x define-global-abbrev'
+4. insert prefix, then 'M-'' and insert abbrev
+5. 'M-x expand-region-abbrevs'
+6. 'kill-all-abbrevs'
+
+Bye! See you Next time!
