@@ -272,3 +272,8 @@ In this section, I'll introduce how to search text in Emacs.
 13. 'M-s C-e' append the rest of the current to the searching string
 
 Bye! Thank you for your time! See you next time! :-)
+* Section 18 [2018-03-20 Tue 14:13]
+In this section, I'll introduce what you can do in Emacs when you get
+bored. :-)
+
+'C-u _n_ M-x hanoi' _(:3」∠)_
