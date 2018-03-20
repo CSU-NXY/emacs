@@ -330,3 +330,21 @@ I'll copy some random text from somewhere.
 5. 'sort-columns' sort by a range of columns instead of ONE
    field. Note: column is NOT field!
 
+* Section 22 [2018-03-20 Tue 23:25]
+In this section, I'll introduce some basics of picture-mode in Emacs
+
+1. use 'M-x picture-mode' to activate picture
+2. use 'C-w' to delete text instead of '<BACKSPACE>' or 'C-d'. You can
+   also use 'C-c C-d' to delete a character
+3. '<SPC>' to replace a character with a space
+4. You can set insert directions
+   1) 'C-c >' right 
+   2) 'C-c <' left 
+   3) 'C-c ^' up
+   4) 'C-c .' down
+   5) 'C-c /' down left
+   6) 'C-c \' down right
+   7) 'C-c `' up left
+   8) 'C-c 'up right
+ 
+Let's draw something.
