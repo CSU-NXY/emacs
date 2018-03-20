@@ -294,3 +294,24 @@ In this section, I'll introduce indentation in Emacs
 
 Bye! Thank you for your time!
 See you next time! :-)
+* Section 20 [2018-03-20 Tue 14:50]
+In this section, I will introduce dired-mode a little.
+
+1. 'C-x d' Enter dired
+2. 'm' mark file or dirs. If there is a region, mark all file or dirs
+   in the region
+3. '<DEL>' move to previous line and unmark file or dirs
+4. 'f' or '<ENTER>' visit file
+5. 'n' next line
+6. 'p' previous line
+7. 'g' refresh list of file and dirs
+8. 'd' mark file or dir to delete
+9. 'x' delete marked file or dirs
+10. 'u' remove mark
+11. '+' create a directory
+12. '^' move to parent dirctory
+13. 'C' copy a file
+14. 'R' rename a file or directory
+15. 'v' view file or dir without editing it
+16. '~' mark back files
+
