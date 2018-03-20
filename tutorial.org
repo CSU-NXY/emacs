@@ -229,3 +229,23 @@ the opposite corner
 8. 'C-x <SPC>' toggle rectangle mode
 
 Bye! See you next time!
+* Section 16 [2018-03-20 Tue 10:46]
+In this section, I'll introduce how to search text in Emacs.
+
+1. 'C-s' begin incremental search
+   - I bind 'C-s' to swiper in my configuration, I'll disable it
+     now. Restrat Emacs.
+2. type 'C-x' again to jump to next match
+3. 'C-r' begin reverse incremental search
+4. type 'C-s C-s' or 'C-r C-r' to use last used string
+5. '<DEL>' jump backward when searching
+6. '<ENTER>' to exit search and stay at the current position
+7. 'C-g' exit search and return to the point when start search
+8. 'C-u C-<SPC>' to return to where you were before searching
+9. 'M-e' to edit search string when searching
+10. 'C-w' append the next word at point to searching
+11. 'C-M-w' delete the last character from the searching string
+12. 'C-M-y' append the character after point to the searching string
+13. 'M-s C-e' append the rest of the current to the searching string
+
+Bye! Thank you for your time! See you next time! :-)
