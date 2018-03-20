@@ -315,3 +315,18 @@ In this section, I will introduce dired-mode a little.
 15. 'v' view file or dir without editing it
 16. '~' mark back files
 
+* Section 21 [2018-03-20 Tue 21:20]
+In this section, I'll introduce how to use sort in Emacs
+
+I'll copy some random text from somewhere.
+
+1. 'sort-lines' sort all of the lines in region
+2. 'sort-fields' sort lines by a specific field, field number starts
+   from 1 instead of 0 and it's specified by prefix number
+   argument. Note: this is sorted by string instead of by value of
+   number
+3. 'sort-numeric-fields' sort by a specific field by the value of number
+4. 'reverse-region' reverse lines of the region
+5. 'sort-columns' sort by a range of columns instead of ONE
+   field. Note: column is NOT field!
+
