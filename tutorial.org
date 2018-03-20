@@ -230,6 +230,8 @@ the opposite corner
 
 Bye! See you next time!
 * Section 16 [2018-03-20 Tue 10:46]
+* Section 17 [2018-03-20 Tue 10:46]
+
 In this section, I'll introduce how to search text in Emacs.
 
 1. 'C-s' begin incremental search
