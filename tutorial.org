@@ -390,3 +390,14 @@ In this section, I'll introduce more about Calendar again. :)
 8. 'o' center calendar around specific month
 9. 'M-=' display the number of days in the current region
 10. 'p d' display day-in-year: e.g 37 days remaining in the year.
+* Section 27 [2018-03-21 Wed 16:23]
+In this section, I'll introduce how to generate calendar files
+
+1. html format
+   1) 'H m' generate a one-month calendar
+   2) 'H y' generate a calendar for each month of a year, as well as an
+      index page
+2. tex format
+   1) 't m' generate a one-month calendar
+   2) 't d' generate a one-day calendar
+   3) 't y' generate a calendar for one year
