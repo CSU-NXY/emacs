@@ -365,4 +365,15 @@ In this section, I'll introduce calendar in Emacs.
 10. 'g D' go to specific day of the year
 11. 'q' quit calendar
 
+* Section 25 [2018-03-21 Wed 15:13]
+In this section, I'll introduce more about Calendar.
 
+1. '>' scroll forward one month
+2. '<' scroll backward one month
+3. 'C-v' scroll forward three months
+4. 'M-v' scroll backward three months
+5. '<SPC>' scroll down other window
+6. '<BACKSPACE>' scroll up other window
+7. 'x' mark holidays
+8. 'u' unmark holidays
+9. 'h' show holidays under current point
