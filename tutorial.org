@@ -348,3 +348,21 @@ In this section, I'll introduce some basics of picture-mode in Emacs
    8) 'C-c 'up right
  
 Let's draw something.
+* Section 23 [2018-03-21 Wed 08:01]
+something interesting
+* Section 24 [2018-03-21 Wed 15:04]
+In this section, I'll introduce calendar in Emacs.
+
+1. 'M-x calendar' enter calendar
+2. 'C-n' next week of the same day
+3. 'C-p' previous week of the same day
+4. 'C-a' start of the week
+5. 'C-e' end of the week
+6. 'M-a' start of month
+7. 'M-e' end of month
+8. 'g d' go to specific date
+9. 'g w' go to specific week
+10. 'g D' go to specific day of the year
+11. 'q' quit calendar
+
+
