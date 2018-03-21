@@ -377,3 +377,16 @@ In this section, I'll introduce more about Calendar.
 7. 'x' mark holidays
 8. 'u' unmark holidays
 9. 'h' show holidays under current point
+* Section 26 [2018-03-21 Wed 15:21]
+In this section, I'll introduce more about Calendar again. :)
+
+1. 'M-}' move one month forward
+2. 'M-{' move one month backward
+3. '.' jump to today
+4. 'C-x [' move point one year backward
+5. 'C-x ]' move point one year forward
+6. 'M->' move point to end of year
+7. 'M-<' move potin to start of year
+8. 'o' center calendar around specific month
+9. 'M-=' display the number of days in the current region
+10. 'p d' display day-in-year: e.g 37 days remaining in the year.
